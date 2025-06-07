@@ -6,7 +6,7 @@ namespace StaticExercise
     {
         public static double FahrenheitToCelsius(double fahrenheit)
         {
-           var result = (fahrenheit -31)/1.8;
+           var result = (fahrenheit - 32) / 1.8;
             return result;
         }
 
